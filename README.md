@@ -9,8 +9,11 @@
 >   - pandas | numpy | matplotlib | cv2 | random | time | PIL | Tensorflow | Keras | sklearn | splitfolders | os | seaborn | imutils
 > * Used models:
 >   - VGG19 | DenseNet121 | InceptionV3 | ResNet50 | ResNet50V2 | EfficientNetV2B3 | EfficientNetV2B0 | Xception
+## Data
+* Fahr's disease:\
+![1](https://github.com/AnnnaMm/Fahr-s-disease-detection/blob/main/fr.jpg)
 
-## Training:
+## Training
 ### VGG19
 
 * Epoch ≥ 30, optimizer= "adam"
@@ -134,7 +137,7 @@
 - F1-score: 92.86%
 
 
-## Results:
+## Results
 T(s) and P(s) are training and prediction times in seconds.
 ![2](https://github.com/AnnnaMm/Fahr-s-disease-detection/blob/main/results.jpg)
 
