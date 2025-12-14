@@ -1,4 +1,8 @@
-## This project aimed to investigate the effectiveness of various CNNs in detecting a rare brain pathology - Fahr's disease, using CT images. As part of the study, a new unique dataset was created, which will soon be available on Kaggle. The research was funded by grant as part of the "Excellence Initiative - Research University" project and in collaboration with Professor of Adam Mickiewicz University in Poznań. 
+<div align="justify">
+<h1> <b> Fahr’s disease detection </b> </h1>
+<h2> This project aimed to investigate the effectiveness of various CNNs in detecting a rare brain pathology - Fahr's disease, using CT images. As part of the study, a new unique dataset was created, which will soon be available on Kaggle. The research was funded by grant as part of the "Excellence Initiative - Research University" project and in collaboration with Professor of Adam Mickiewicz University in Poznań. </h2>
+</div>
+
 > * Datasets sourses:
 >   - _Kaggle:_ 
 >   - _Kaggle:_
